@@ -1,0 +1,36 @@
+baseURL = 'https://FSCodsim.github.io/'
+languageCode = 'ja'
+title = '空飛ぶスパゲッティコード教'
+theme = "terminal"
+defaultContentLanguage = "ja"
+
+[params]
+  contentTypeName = "posts"
+
+  themeColor = "red"
+
+  showMenuItems = 2
+
+  showLanguageSelector = false
+
+  fullWidthTheme = true
+
+  centerTheme = false
+
+  showLastUpdate = true
+
+  readingTIme = true
+
+  Toc = true
+
+  TocTitle = "目次"
+
+[languages]
+  [languages.ja]
+    languageName = "Japanese"
+    title = "空飛ぶスパゲッティコード教"
+    subtitle = "FSCodism"
+
+    [languages.ja.params.logo]
+      logoText = "FSCodism"
+      logoHomeLink = "/"
